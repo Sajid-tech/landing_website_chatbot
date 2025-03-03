@@ -116,7 +116,7 @@ const WhyRmax = () => {
                 className="mb-4"
               >
                 <img
-                  src="https://s3-alpha-sig.figma.com/img/6fa6/e295/4d0e99797aa4929a2f6f84115cd97695?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=k6q3f-f8-WoyWUgZdKJh5LRHaDQjSfT82Tl2pDqJJ6Ts8ardxa2jWnbD0ppDCTphhhJp4HJ7ebE~r0PmIqidjAHY8e~FyynwRpy8UJUAMEFrBzfpRBVFLI-4b-1i~CZyDHq3C88dhviBRAWkFsUgEHD0Xt~2B58XLILRZXwq5L5JmXaMn7tB9bTxJLdq-Q1xIa~QgmyKduFjAEr73O-NxvQ7wXamBZUwWcqO2dh8ZqnohVvL89tjCODlrBRIQ0b7XCh~eTw9wHUT3aZ3~Y7qpVR96HQd7FwovM~pBEEBTrtTdO3wm6di1OZUkkyFxKx5KtHRRoYOHRl~iuvJgNxS3g__"
+                  src="https://plus.unsplash.com/premium_photo-1668383778557-d71c562fdb4b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Billing & Payments"
                   className=" w-full h-[18rem] object-cover rounded-lg"
                 />
@@ -340,7 +340,7 @@ const WhyRmax = () => {
                 transition={{ duration: 0.5 }}
               >
                 <img
-                  src="https://s3-alpha-sig.figma.com/img/6fa6/e295/4d0e99797aa4929a2f6f84115cd97695?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=k6q3f-f8-WoyWUgZdKJh5LRHaDQjSfT82Tl2pDqJJ6Ts8ardxa2jWnbD0ppDCTphhhJp4HJ7ebE~r0PmIqidjAHY8e~FyynwRpy8UJUAMEFrBzfpRBVFLI-4b-1i~CZyDHq3C88dhviBRAWkFsUgEHD0Xt~2B58XLILRZXwq5L5JmXaMn7tB9bTxJLdq-Q1xIa~QgmyKduFjAEr73O-NxvQ7wXamBZUwWcqO2dh8ZqnohVvL89tjCODlrBRIQ0b7XCh~eTw9wHUT3aZ3~Y7qpVR96HQd7FwovM~pBEEBTrtTdO3wm6di1OZUkkyFxKx5KtHRRoYOHRl~iuvJgNxS3g__"
+                  src="https://plus.unsplash.com/premium_photo-1668383778557-d71c562fdb4b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Custom Branded Website"
                   className="w-full h-[18rem] object-cover rounded-lg"
                 />
